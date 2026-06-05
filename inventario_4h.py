@@ -5,9 +5,8 @@ from datetime import datetime
 ARCHIVO_STOCK = "stock.csv"
 ARCHIVO_MOVIMIENTOS = "movimientos.csv"
 
-# ──────────────────────────────────────────────
 # UTILIDADES
-# ──────────────────────────────────────────────
+
 
 def inicializar_archivos():
     """Crea los archivos CSV si no existen."""
